@@ -1,3 +1,4 @@
 firecrawl-py
 python-dotenv
 google-generativeai
+flask
